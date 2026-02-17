@@ -20,4 +20,4 @@ This internship task gave me practical exposure to real-world networking concept
 
 
 **OUTPUT
-![Image](https://github.com/user-attachments/assets/b955ca17-fb9f-4b27-9622-9c2cf614a000)
+![Image](https://github.com/user-attachments/assets/cfa01a8b-e5c3-4d63-a815-f7e2bcd104c5)
